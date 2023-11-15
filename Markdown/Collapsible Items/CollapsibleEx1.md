@@ -1,6 +1,7 @@
 <details>
 <summary>Click me to expand!</summary>
-This is a collapsible section containing collapsible code snippets!
+<br/>This is a collapsible section containing collapsible code snippets!
+<br/><br/>
 
 <details>
 <summary><i>Hola Mundo</i> in C</summary>

@@ -2,7 +2,7 @@
 <summary>Click me to expand!</summary>
 
 <br/>
-This is a collapsible section description containing code snippets!
+This is a collapsible section containing collapsible code snippets!
 
 <br/>
 
@@ -19,6 +19,7 @@ int main(void) {
 }
 ```
 </details>
+<br/>
 
 <details>
 <summary><i>Hola Mundo</i> in C++</summary>
@@ -33,6 +34,7 @@ int main(void) {
 }
 ```
 </details>
+<br/>
 
 <details>
 <summary><i>Hola Mundo</i> in C#</summary>

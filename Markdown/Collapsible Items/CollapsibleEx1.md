@@ -3,8 +3,8 @@
 <br/>This is a collapsible section containing collapsible code snippets!
 <br/><br/>
 
-<details>
-<summary><i>Hola Mundo</i> in C</summary>
+<details open>
+<summary><i>Hola Mundo</i> in C (click to collapse)</summary>
 
 <!-- An empty line needs to sepparate the 'summary' HTML tags with the code section -->
 ```c
@@ -17,8 +17,8 @@ int main(void) {
 ```
 </details>
 
-<details>
-<summary><i>Hola Mundo</i> in C++</summary>
+<details open>
+<summary><i>Hola Mundo</i> in C++ (click to collapse)</summary>
 
 <!-- An empty line needs to sepparate the 'summary' HTML tags with the code section -->
 ```c++
@@ -31,8 +31,8 @@ int main(void) {
 ```
 </details>
 
-<details>
-<summary><i>Hola Mundo</i> in C#</summary>
+<details open>
+<summary><i>Hola Mundo</i> in C# (click to collapse)</summary>
 
 <!-- An empty line needs to sepparate the 'summary' HTML tags with the code section -->
 ```C#

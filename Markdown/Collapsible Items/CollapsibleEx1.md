@@ -1,5 +1,5 @@
 <details>
-<summary>Click me to expand!</summary>
+<summary>Code snippets (click to expand)</summary>
 <br/>This is a collapsible section containing collapsible code snippets!
 <br/><br/>
 

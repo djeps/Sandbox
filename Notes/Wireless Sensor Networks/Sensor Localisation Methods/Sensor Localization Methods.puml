@@ -1,0 +1,22 @@
+@startmindmap
+!theme materia
+
+<style>
+node {
+  HorizontalAlignment center
+}
+</style>
++ **WSN**\n**Sensor Localization**
+-- Target/Source Localization
+--- Single-target
+--- Multi-target
+++ Self-localization
++++ Range-based
+++++ TOA
+++++ TDOA
+++++ RSS/RSI
+++++ AOA
++++ Range-free
+++++ Pattern matching
+++++ Hop counting
+@endmindmap
